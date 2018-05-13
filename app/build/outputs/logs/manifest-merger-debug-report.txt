@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ccf78a70a2ab535a9c480ad5005b0a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\dac62476f0eb5612557bdfba899d14f2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7151c63d3aa59edb8bef39af6c803084\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\a876eb3f826e7064b72259b9c7b79481\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\32a5e878badd327d645c2015ec1d1214\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.1.aar\62fca989c70ab2ba271175ade5653a46\AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b2bf077e9cee9180cea66a6bf3713002\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a9186736bf18dd639b91386f5b11da21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.1.aar\3790acd829d0cff2a513d4550e290a03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\582ab5f43b99f3271f4560ad6601e920\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\9095047904811f3e8bb22f8a6b7d0684\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\41a94af24a2585559353af8288cf16bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\68756c8043759f1e8aaa03e6f7faa832\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7a565a060746dfec59c571961095f77a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\085f1c6540995f4fdb039d008ad1a6ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\11f577382b427d00dc8603493e3b42b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\689ad6bf4370c50970e9cf49011623b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dc2964ce673b8f902af8ab9abae1804d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\04a085cb4b5070730ddf7598b8c33128\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b4ca16b71818e3e81be7b285f86a04c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\343e92181b3166d58f539ec028a85ecd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ec55cd212c8a0ca239bbbd5c3743973\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8cf3b6d3890458a24081e5fe76ede4dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d95771e80b24b3e0c9908b55aaeb908\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\883bac4ed3bcd3228e9b99aab127e03d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:8:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:17:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:18:5-20:35
+	android:required
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:20:9-32
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:19:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:21:19-67
+application
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:23:5-75:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\dac62476f0eb5612557bdfba899d14f2\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\dac62476f0eb5612557bdfba899d14f2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.1.aar\62fca989c70ab2ba271175ade5653a46\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.1.aar\62fca989c70ab2ba271175ade5653a46\AndroidManifest.xml:7:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.1.aar\3790acd829d0cff2a513d4550e290a03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.1.aar\3790acd829d0cff2a513d4550e290a03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\582ab5f43b99f3271f4560ad6601e920\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\582ab5f43b99f3271f4560ad6601e920\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\41a94af24a2585559353af8288cf16bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\41a94af24a2585559353af8288cf16bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\68756c8043759f1e8aaa03e6f7faa832\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\68756c8043759f1e8aaa03e6f7faa832\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:27:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:25:9-42
+	tools:ignore
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:29:9-54
+	android:largeHeap
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:28:9-33
+	android:icon
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:31:9-40
+activity#com.calix.calixgigaspireapp.ui.loginregconfig.Splash
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:theme
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:37:13-50
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:36:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.calix.calixgigaspireapp.ui.loginregconfig.Login
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:45:9-47:77
+	android:configChanges
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:46:13-52
+activity#com.calix.calixgigaspireapp.ui.loginregconfig.Registration
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:49:9-51:77
+	android:configChanges
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:50:13-59
+activity#com.calix.calixgigaspireapp.ui.loginregconfig.RouterConfiguration
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:53:9-55:77
+	android:configChanges
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:55:13-74
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:54:13-66
+activity#com.calix.calixgigaspireapp.ui.loginregconfig.QRBarcodeScanner
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:57:9-59:77
+	android:configChanges
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:59:13-74
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:58:13-63
+activity#com.calix.calixgigaspireapp.ui.loginregconfig.RouterDetected
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:61:9-63:77
+	android:configChanges
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:63:13-74
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:62:13-61
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:66:9-68:39
+	android:value
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:67:13-70
+meta-data#io.fabric.ApiKey
+ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:71:9-73:72
+	android:value
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml:72:13-44
+uses-sdk
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ccf78a70a2ab535a9c480ad5005b0a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ccf78a70a2ab535a9c480ad5005b0a9d\AndroidManifest.xml:20:5-44
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\dac62476f0eb5612557bdfba899d14f2\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\dac62476f0eb5612557bdfba899d14f2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7151c63d3aa59edb8bef39af6c803084\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7151c63d3aa59edb8bef39af6c803084\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\a876eb3f826e7064b72259b9c7b79481\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\a876eb3f826e7064b72259b9c7b79481\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\32a5e878badd327d645c2015ec1d1214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\32a5e878badd327d645c2015ec1d1214\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.1.aar\62fca989c70ab2ba271175ade5653a46\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.1.aar\62fca989c70ab2ba271175ade5653a46\AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b2bf077e9cee9180cea66a6bf3713002\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b2bf077e9cee9180cea66a6bf3713002\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a9186736bf18dd639b91386f5b11da21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a9186736bf18dd639b91386f5b11da21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.1.aar\3790acd829d0cff2a513d4550e290a03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.1.aar\3790acd829d0cff2a513d4550e290a03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\582ab5f43b99f3271f4560ad6601e920\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\582ab5f43b99f3271f4560ad6601e920\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\9095047904811f3e8bb22f8a6b7d0684\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\9095047904811f3e8bb22f8a6b7d0684\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\41a94af24a2585559353af8288cf16bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\41a94af24a2585559353af8288cf16bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\68756c8043759f1e8aaa03e6f7faa832\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\68756c8043759f1e8aaa03e6f7faa832\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7a565a060746dfec59c571961095f77a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7a565a060746dfec59c571961095f77a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\085f1c6540995f4fdb039d008ad1a6ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\085f1c6540995f4fdb039d008ad1a6ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\11f577382b427d00dc8603493e3b42b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\11f577382b427d00dc8603493e3b42b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\689ad6bf4370c50970e9cf49011623b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\689ad6bf4370c50970e9cf49011623b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dc2964ce673b8f902af8ab9abae1804d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dc2964ce673b8f902af8ab9abae1804d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\04a085cb4b5070730ddf7598b8c33128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\04a085cb4b5070730ddf7598b8c33128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b4ca16b71818e3e81be7b285f86a04c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b4ca16b71818e3e81be7b285f86a04c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\343e92181b3166d58f539ec028a85ecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\343e92181b3166d58f539ec028a85ecd\AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\b7c275472f01ee1dd05263beedb2ad80\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\9012d76fcc0b77c52c2bc18cc1cbd3ab\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\fdc71bd94432dec4cb919e82351568c6\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\8c121b1d1cce0a0d66019255a6d34baa\AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ec55cd212c8a0ca239bbbd5c3743973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ec55cd212c8a0ca239bbbd5c3743973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8cf3b6d3890458a24081e5fe76ede4dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8cf3b6d3890458a24081e5fe76ede4dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d95771e80b24b3e0c9908b55aaeb908\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d95771e80b24b3e0c9908b55aaeb908\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\883bac4ed3bcd3228e9b99aab127e03d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\883bac4ed3bcd3228e9b99aab127e03d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ela\Documents\Android\Calix Gigaspire App\Android_IoT\app\src\main\AndroidManifest.xml
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\ca8eadf60a6841a933caadcf13d47830\AndroidManifest.xml:13:13-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\106dc5d0c7c18b03ed1a7dfcbf1bc63c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ela\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\697fd01d1d6f2ea9478c36be302ac07c\AndroidManifest.xml:24:13-58
