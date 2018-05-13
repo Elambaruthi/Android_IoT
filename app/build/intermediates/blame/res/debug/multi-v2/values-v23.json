@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ela\\Documents\\Android\\Calix Gigaspire App\\Android_IoT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Ela\\Documents\\Android\\Calix Gigaspire App\\Calix Gigaspire App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ela\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.1.1.aar\\32a5e878badd327d645c2015ec1d1214\\res\\values-v23\\values-v23.xml",

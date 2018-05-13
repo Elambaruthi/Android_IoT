@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ela\\Documents\\Android\\Calix Gigaspire App\\Android_IoT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
+            "outputFile": "C:\\Users\\Ela\\Documents\\Android\\Calix Gigaspire App\\Calix Gigaspire App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ela\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\343e92181b3166d58f539ec028a85ecd\\res\\values-kk\\values-kk.xml",

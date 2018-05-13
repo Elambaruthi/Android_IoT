@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ela\\Documents\\Android\\Calix Gigaspire App\\Android_IoT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
+            "outputFile": "C:\\Users\\Ela\\Documents\\Android\\Calix Gigaspire App\\Calix Gigaspire App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ela\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\106dc5d0c7c18b03ed1a7dfcbf1bc63c\\res\\values-lt\\values.xml",
